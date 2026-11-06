@@ -1,6 +1,6 @@
 import logging
 
-from app.logging import LEVELS, get_logger
+from app.logging_config import LEVELS, get_logger
 
 
 def test_get_logger_default_name():
