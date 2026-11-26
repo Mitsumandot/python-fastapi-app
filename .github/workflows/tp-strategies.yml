@@ -1,8 +1,6 @@
 name: Matrix Strategy Lab
 
 on:
-  push:
-    branches: [feature/tp-strategies]
   workflow_dispatch:
 
 jobs:
